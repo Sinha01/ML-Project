@@ -1,4 +1,6 @@
 # ML-Project
+Project using Machine Learning with Python
+
 This project is on **Heart Disease Prediction using Machine Learning with Python** . 
 
 > It predicts that whom have the Heart disease and who doesn't, from the given dataset by using Logistic Regresssion method from machine learning.
